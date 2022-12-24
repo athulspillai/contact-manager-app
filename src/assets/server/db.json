@@ -2,10 +2,10 @@
   "contacts": [
     {
       "id": "ca1",
-      "name": "Leanne Graham",
+      "name": "Leanne Graham ",
       "email": "Sincere@april.biz",
       "photo": "https://tse2.mm.bing.net/th?id=OIP.8srvO2PtBJk8dCezMndAtAHaJx&pid=Api&P=0",
-      "mobile": "9876543210",
+      "mobile": "9876543219",
       "company": "Romaguera-Crona",
       "title": "Developer",
       "groupId": "1"
@@ -89,16 +89,6 @@
       "company": "paris-saint-german",
       "title": "forward",
       "groupId": "1"
-    },
-    {
-      "id": "ca11",
-      "name": "Dulquer salmaan",
-      "photo": "https://media.movieassets.com/static/images/items/people/profiles/500/100/dulquer-salmaan-8c61b687893da1553c93b4408f487116.jpg",
-      "email": "DQ369@gmail.com",
-      "mobile": "7736435939",
-      "company": "DQ",
-      "title": "Actor",
-      "groupId": "4"
     }
   ],
   "groups": [
